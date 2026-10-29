@@ -1,0 +1,32 @@
+{
+  "model_name": "NER-XGBoost-Disruption-Predictor",
+  "version": "1.0.0",
+  "trained_at": "2026-10-29T18:04:25.411407+00:00",
+  "target_recall_target": 0.8,
+  "test_recall_24h": 0.4956,
+  "test_precision": 0.3522,
+  "test_f1": 0.4118,
+  "test_roc_auc": 0.6324,
+  "confusion_matrix": [
+    [
+      284,
+      103
+    ],
+    [
+      57,
+      56
+    ]
+  ],
+  "sample_count": 2000,
+  "features": [
+    "rainfall_24h_mm",
+    "rainfall_antecedent_mm",
+    "slope_degrees",
+    "elevation_m",
+    "soil_saturation_pct",
+    "dist_river_km",
+    "road_class",
+    "hist_disruptions"
+  ],
+  "status": "VALIDATED"
+}
