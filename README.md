@@ -3,9 +3,13 @@
 **Smart India Hackathon 2026 • Problem Statement SIH26002**  
 *Associated Ministry: Ministry of Development of North Eastern Region (MDoNER)*
 
+[![Live Web Application](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://niteesh8863.github.io/ner-smartlogistics-ai/)
 [![Backend Test Suite](https://img.shields.io/badge/pytest-12%2F12%20passed-brightgreen.svg)]()
 [![TypeScript Build](https://img.shields.io/badge/vite-compiled%20successfully-blue.svg)]()
 [![Architecture](https://img.shields.io/badge/MeghRaj-Containerized%20Ready-purple.svg)]()
+
+> 🌐 **Live Web Application URL:** [https://niteesh8863.github.io/ner-smartlogistics-ai/](https://niteesh8863.github.io/ner-smartlogistics-ai/)  
+> 📦 **GitHub Repository:** [https://github.com/Niteesh8863/ner-smartlogistics-ai](https://github.com/Niteesh8863/ner-smartlogistics-ai)
 [![Python](https://img.shields.io/badge/python-3.11%20%7C%203.14-blue.svg)]()
 [![React](https://img.shields.io/badge/react-18.3-cyan.svg)]()
 
